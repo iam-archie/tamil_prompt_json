@@ -1,0 +1,40 @@
+{
+  "subject": "A Tamil woman in her early thirties, wearing a handwoven Chettinad kandangi cotton sari in muted brick-red and mustard checks, quietly drawing a small traditional pulli kolam with rice flour at the inner threshold; candid everyday concentration, natural posture, no theatrical posing.",
+  "setting": {
+    "place": "A Chettinad merchant home courtyard in Karaikudi, Sivaganga district, Tamil Nadu; lime-plastered walls, carved Burmese teak pillars, an open-to-sky mutram, and locally made Athangudi floor tiles.",
+    "era": "circa 1930, represented with historically plausible domestic details and no modern objects",
+    "time_of_day": "Margazhi dawn, just before sunrise"
+  },
+  "lighting": "Soft, cool pre-sunrise ambient light entering the open courtyard, subtle natural shadow, realistic exposure, no artificial glow.",
+  "camera": {
+    "shot": "medium-wide environmental shot showing the woman, kolam, and courtyard architecture",
+    "lens": "35mm documentary photography lens",
+    "angle": "eye-level, slightly off-centre, observational perspective"
+  },
+  "palette": [
+    "weathered lime white",
+    "muted brick red",
+    "aged teak brown",
+    "Athangudi terracotta",
+    "rice-flour white"
+  ],
+  "style": "Photorealistic historical documentary photography, restrained and intimate, natural skin texture and fabric weave, lived-in domestic atmosphere, culturally grounded rather than staged or postcard-like.",
+  "aspect_ratio": "3:2",
+  "avoid": [
+    "generic pan-Indian or North Indian visual motifs",
+    "Thanjavur temple gopurams or palace architecture",
+    "generic silk sari; use the specified Chettinad kandangi cotton textile",
+    "Bharatanatyam costume, dance pose, or theatrical jewellery",
+    "oversized bindi, excessive gold jewellery, or glamour styling",
+    "tourist-poster composition, oversaturated colours, artificial HDR",
+    "modern appliances, plastic objects, electric fittings, cars, phones, or synthetic fabrics",
+    "fantasy details, inaccurate architecture, text, logos, watermark, extra fingers, malformed hands"
+  ],
+  "motion": {
+    "subject_motion": "The woman steadily completes a few small curves of the rice-flour kolam; the loose end of her sari moves almost imperceptibly in the early morning breeze.",
+    "environment_motion": "A faint movement of leaves visible above the open courtyard; otherwise the courtyard remains still.",
+    "camera_move": "Very slow, subtle push-in from the same eye-level observational angle; no cuts or sudden movement.",
+    "duration_seconds": 5,
+    "frame_rate": 24
+  }
+}
